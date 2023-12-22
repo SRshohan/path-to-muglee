@@ -1,1 +1,3 @@
-APIKEY = "<openai-api-key>"
+APIKEY = "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"
+GOOGLEID = "06580952e4d2f41b8"
+GAPIKEY = "AIzaSyCKAniF43oTOvQRp8WLqSmkPAG0gR1M0FM"
